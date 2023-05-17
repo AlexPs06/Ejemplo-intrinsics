@@ -1,0 +1,10 @@
+En este repositorio hay distintos ejempĺos de las funciones de intel intrinsics
+para ejecutar simplemente es necesario entrar en cada carpeta y utilizar el 
+comando:
+
+make
+
+Con este comando se generara un archivo ejecutable llamado test.
+Para ejecutar utilice el comando:
+
+./test
